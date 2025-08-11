@@ -1,4 +1,4 @@
-# 🛍 Grupo Sousa — Página com Botões Interativos  
+# 🛍 Página com Botões Interativos  
 
 Este projeto é uma **página HTML com interface interativa** desenvolvida com **Bootstrap 4**, que apresenta opções de serviços de uma loja fictícia chamada *Grupo Sousa*.  
 
@@ -28,7 +28,7 @@ Projeto realizado para a disciplina FrameWorks do 2º Semestre no curso de Siste
 
 - **HTML5** → Estrutura da página.  
 - **Bootstrap 4** → Estilização e componentes prontos (botões, dropdowns, alertas, badges, jumbotron, etc.).  
-- **CSS3** → Estilo adicional para centralização de elementos.  
+- **CSS** → Estilo adicional para centralização de elementos.  
 
 ## 🖼️ Prévia
 <img width="1910" height="888" alt="image" src="https://github.com/user-attachments/assets/9f988006-fa12-42a7-ad66-6f1aa5041ba3" />
@@ -41,3 +41,5 @@ Projeto realizado para a disciplina FrameWorks do 2º Semestre no curso de Siste
      cd grupo-sousa
 2. Abra o arquivo index.html no navegador.
 3. Interaja com a página explorando os menus e botões.
+
+Feito com ❤️ por Valéria Alves
